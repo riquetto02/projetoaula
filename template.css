@@ -1,0 +1,35 @@
+.chocolate{
+    float: left;
+    width: 100%;
+}
+
+.chocolate div{
+    width: 33%;
+    float:left;
+}
+
+.olate{
+    font-family: Arial;
+    color: #5a1f33;
+    font-size: 40px;
+
+}
+
+.late{
+    font-family: Arial;
+    color: #5a1f33;
+    font-size: 15px;
+
+
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    fill-opacity: 0.5;
+
+}
+
+img:hover{
+    opacity: 0.5;
+}
